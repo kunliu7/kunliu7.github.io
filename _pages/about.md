@@ -18,9 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Email: kun DOT liu DOT kl944 AT yale DOT edu
-
 My name is Kun Liu, a Ph.D. student at Yale University advised by Prof. [Yongshan Ding](https://www.yongshanding.com/).
 Prior to that, I obtained my Master's degree at Carnegie Mellon University and Bachelor's degree at Tongji University.
 
-I am currently interested in Quantum Error Correction and Quantum Computing Architecture.
+I am currently interested in Quantum Error Correction, especially quantum LDPC codes.
