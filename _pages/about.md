@@ -18,7 +18,23 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-My name is Kun Liu, a Ph.D. student at Yale University advised by Prof. [Yongshan Ding](https://www.yongshanding.com/).
-Prior to that, I obtained my Master's degree at Carnegie Mellon University and Bachelor's degree at Tongji University.
+My name is Kun Liu, a third-year Ph.D. candidate at Yale University advised by Prof. [Yongshan Ding](https://www.yongshanding.com/).
 
-I am currently interested in Quantum Error Correction, especially quantum LDPC codes.
+I am working on full-stack fault-tolerant quantum computing (FTQC), including
+1. hardware implementation design
+2. architecture design and end-to-end compilation
+3. non-Clifford operation synthesis and implementation
+4. logical operations on qLDPC codes
+
+My hot takes: Towards FTQC, 
+1. the most important thing on the theory side is about **non-Clifford operations**;
+2. the most important thing on the experiment side is about **long-range interactions**.
+
+Before I entered Yale, I was fortunate to be advised by Prof. [Xiao Yuan](https://cfcs.pku.edu.cn/english/people/faculty/xiaoyuan/index.htm) at Peking University and Prof. [Swamit Tannu](https://swamittannu.com/) at University of Wisconsin–Madison.
+
+
+## Educations
+
+- 2023-now: PhD in Computer Science, Yale University, New Haven CT
+- 2021-2023: Master of Science in Information Networking,  Carnegie Mellon University, Pittsburgh PA
+- 2017-2021: Bachelor in Computer Science, Tongji University, Shanghai, China
