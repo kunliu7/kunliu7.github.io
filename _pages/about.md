@@ -33,7 +33,7 @@ My hot takes: Towards FTQC,
 Before I entered Yale, I was fortunate to be advised by Prof. [Xiao Yuan](https://cfcs.pku.edu.cn/english/people/faculty/xiaoyuan/index.htm) at Peking University and Prof. [Swamit Tannu](https://swamittannu.com/) at University of Wisconsin–Madison.
 
 
-## Educations
+## educations
 
 - 2023-now: PhD in Computer Science, Yale University, New Haven CT
 - 2021-2023: Master of Science in Information Networking,  Carnegie Mellon University, Pittsburgh PA
