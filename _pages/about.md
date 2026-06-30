@@ -26,10 +26,6 @@ I am working on full-stack fault-tolerant quantum computing (FTQC), including
 3. non-Clifford operation synthesis and implementation
 4. logical operations on qLDPC codes
 
-My hot takes: Towards FTQC, 
-1. the most important thing on the theory side is about **non-Clifford operations**;
-2. the most important thing on the experiment side is about **long-range interactions**.
-
 Before I entered Yale, I was fortunate to be advised by Prof. [Xiao Yuan](https://cfcs.pku.edu.cn/english/people/faculty/xiaoyuan/index.htm) at Peking University and Prof. [Swamit Tannu](https://swamittannu.com/) at University of Wisconsin–Madison.
 
 
