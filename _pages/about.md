@@ -26,7 +26,7 @@ I am working on full-stack fault-tolerant quantum computing (FTQC), including
 3. non-Clifford operation synthesis and implementation
 4. logical operations on qLDPC codes
 
-Before I entered Yale, I was fortunate to be advised by Prof. [Xiao Yuan](https://cfcs.pku.edu.cn/english/people/faculty/xiaoyuan/index.htm) at Peking University and Prof. [Swamit Tannu](https://swamittannu.com/) at University of Wisconsin–Madison.
+Before I entered Yale, I was fortunate to be advised by Prof. [Xiao Yuan](https://cfcs.pku.edu.cn/english/people/faculty/xiaoyuan/index.htm) at Peking University, Prof. [Swamit Tannu](https://swamittannu.com/) at University of Wisconsin–Madison, and Prof. [Bhiksha Raj] at Carnegie Mellon University.
 
 
 ## educations
